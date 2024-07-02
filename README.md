@@ -28,5 +28,5 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/WestSopho/frontend-bmi-calculator)
-- Live Site URL: [Add live site URL here](https://frontend-bmi-calculator.vercel.app/)
+- Solution URL: [Link](https://github.com/WestSopho/frontend-bmi-calculator)
+- Live Site URL: [Link](https://frontend-bmi-calculator.vercel.app/)
